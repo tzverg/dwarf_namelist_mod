@@ -1,6 +1,6 @@
-version="3.1.2"
+version="1.0.0"
 tags={
 	"Gameplay"
 }
 name="Dwarf Namelist"
-supported_version="3.1.*"
+supported_version="3.4.*"
